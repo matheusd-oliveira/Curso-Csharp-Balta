@@ -1,0 +1,15 @@
+C:\temp\CursoBalta\Teste01\bin\Debug\net7.0\Teste01.exe
+C:\temp\CursoBalta\Teste01\bin\Debug\net7.0\Teste01.deps.json
+C:\temp\CursoBalta\Teste01\bin\Debug\net7.0\Teste01.runtimeconfig.json
+C:\temp\CursoBalta\Teste01\bin\Debug\net7.0\Teste01.dll
+C:\temp\CursoBalta\Teste01\bin\Debug\net7.0\Teste01.pdb
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.csproj.AssemblyReference.cache
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.AssemblyInfoInputs.cache
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.AssemblyInfo.cs
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.csproj.CoreCompileInputs.cache
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.dll
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\refint\Teste01.dll
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.pdb
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\Teste01.genruntimeconfig.cache
+C:\temp\CursoBalta\Teste01\obj\Debug\net7.0\ref\Teste01.dll

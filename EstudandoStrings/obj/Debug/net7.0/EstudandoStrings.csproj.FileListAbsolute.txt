@@ -1,0 +1,15 @@
+C:\temp\CursoBalta\EstudandoStrings\bin\Debug\net7.0\EstudandoStrings.exe
+C:\temp\CursoBalta\EstudandoStrings\bin\Debug\net7.0\EstudandoStrings.deps.json
+C:\temp\CursoBalta\EstudandoStrings\bin\Debug\net7.0\EstudandoStrings.runtimeconfig.json
+C:\temp\CursoBalta\EstudandoStrings\bin\Debug\net7.0\EstudandoStrings.dll
+C:\temp\CursoBalta\EstudandoStrings\bin\Debug\net7.0\EstudandoStrings.pdb
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.csproj.AssemblyReference.cache
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.AssemblyInfoInputs.cache
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.AssemblyInfo.cs
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.csproj.CoreCompileInputs.cache
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.dll
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\refint\EstudandoStrings.dll
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.pdb
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\EstudandoStrings.genruntimeconfig.cache
+C:\temp\CursoBalta\EstudandoStrings\obj\Debug\net7.0\ref\EstudandoStrings.dll

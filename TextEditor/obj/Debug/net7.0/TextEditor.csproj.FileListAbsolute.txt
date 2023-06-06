@@ -1,0 +1,15 @@
+C:\temp\CursoBalta\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\temp\CursoBalta\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\temp\CursoBalta\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\temp\CursoBalta\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\temp\CursoBalta\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\temp\CursoBalta\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
