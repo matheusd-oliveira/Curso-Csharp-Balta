@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\CursoBalta\\EditorHtml\\EditorHtml.csproj": {}
+    "C:\\temp\\CursoBalta\\Curso-Csharp-Balta\\EditorHtml\\EditorHtml.csproj": {}
   },
   "projects": {
-    "C:\\temp\\CursoBalta\\EditorHtml\\EditorHtml.csproj": {
+    "C:\\temp\\CursoBalta\\Curso-Csharp-Balta\\EditorHtml\\EditorHtml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\CursoBalta\\EditorHtml\\EditorHtml.csproj",
+        "projectUniqueName": "C:\\temp\\CursoBalta\\Curso-Csharp-Balta\\EditorHtml\\EditorHtml.csproj",
         "projectName": "EditorHtml",
-        "projectPath": "C:\\temp\\CursoBalta\\EditorHtml\\EditorHtml.csproj",
+        "projectPath": "C:\\temp\\CursoBalta\\Curso-Csharp-Balta\\EditorHtml\\EditorHtml.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\CursoBalta\\EditorHtml\\obj\\",
+        "outputPath": "C:\\temp\\CursoBalta\\Curso-Csharp-Balta\\EditorHtml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
