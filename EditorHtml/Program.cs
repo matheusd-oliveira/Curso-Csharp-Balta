@@ -7,9 +7,8 @@ namespace EditorHtml
         {   
            
             Menu.Show();
-        }
-
-        
+            
+        }       
     }
 
 }
