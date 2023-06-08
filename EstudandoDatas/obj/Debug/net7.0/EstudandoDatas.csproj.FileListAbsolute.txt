@@ -1,0 +1,15 @@
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\bin\Debug\net7.0\EstudandoDatas.exe
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\bin\Debug\net7.0\EstudandoDatas.deps.json
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\bin\Debug\net7.0\EstudandoDatas.runtimeconfig.json
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\bin\Debug\net7.0\EstudandoDatas.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\bin\Debug\net7.0\EstudandoDatas.pdb
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.csproj.AssemblyReference.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.AssemblyInfoInputs.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.AssemblyInfo.cs
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.csproj.CoreCompileInputs.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\refint\EstudandoDatas.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.pdb
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\EstudandoDatas.genruntimeconfig.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstudandoDatas\obj\Debug\net7.0\ref\EstudandoDatas.dll
