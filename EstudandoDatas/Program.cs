@@ -87,11 +87,11 @@ Console.Clear();
 
 
 
-Console.WriteLine(DateTime.DaysInMonth(2023, 06));
-Console.WriteLine(IsWeekend(DateTime.Now.DayOfWeek));
-Console.WriteLine(DateTime.Now.IsDaylightSavingTime());
+// Console.WriteLine(DateTime.DaysInMonth(2023, 06));
+// Console.WriteLine(IsWeekend(DateTime.Now.DayOfWeek));
+// Console.WriteLine(DateTime.Now.IsDaylightSavingTime());
 
-static bool IsWeekend(DayOfWeek today)
-{
-    return today == DayOfWeek.Saturday || today == DayOfWeek.Sunday;
-}
+// static bool IsWeekend(DayOfWeek today)
+// {
+//     return today == DayOfWeek.Saturday || today == DayOfWeek.Sunday;
+// }
