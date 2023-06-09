@@ -1,0 +1,15 @@
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\bin\Debug\net7.0\EstruturaDeDados.exe
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\bin\Debug\net7.0\EstruturaDeDados.deps.json
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\bin\Debug\net7.0\EstruturaDeDados.runtimeconfig.json
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\bin\Debug\net7.0\EstruturaDeDados.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\bin\Debug\net7.0\EstruturaDeDados.pdb
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.csproj.AssemblyReference.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.AssemblyInfoInputs.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.AssemblyInfo.cs
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.csproj.CoreCompileInputs.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\refint\EstruturaDeDados.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.pdb
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\EstruturaDeDados.genruntimeconfig.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\EstruturaDeDados\obj\Debug\net7.0\ref\EstruturaDeDados.dll
