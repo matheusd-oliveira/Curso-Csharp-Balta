@@ -1,0 +1,15 @@
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\bin\Debug\net7.0\Exceptions.exe
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\bin\Debug\net7.0\Exceptions.deps.json
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\bin\Debug\net7.0\Exceptions.runtimeconfig.json
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\bin\Debug\net7.0\Exceptions.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\bin\Debug\net7.0\Exceptions.pdb
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.csproj.AssemblyReference.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfoInputs.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfo.cs
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\refint\Exceptions.dll
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.pdb
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\Exceptions.genruntimeconfig.cache
+C:\temp\CursoBalta\Curso-Csharp-Balta\Exceptions\obj\Debug\net7.0\ref\Exceptions.dll
