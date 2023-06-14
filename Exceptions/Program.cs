@@ -16,7 +16,7 @@
                 //     Console.WriteLine(arr[index]);
                 // }
 
-                Cadastrar("");
+                Cadastrar("olá, acho que não vai dar erro");
             }
             catch (IndexOutOfRangeException e)
             {
@@ -42,6 +42,10 @@
                 Console.WriteLine(e.InnerException);
                 Console.WriteLine(e.Message);
                 Console.WriteLine("Ops, algo deu errado!");
+            }
+            finally
+            {
+                Console.WriteLine("Chegou ao fim!");
             }
 
         }
